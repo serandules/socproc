@@ -1,4 +1,4 @@
-var debug = require('debug')('serandules-socproc');
+var debug = require('debug')('serandules:socproc');
 var Server = require('./lib/server');
 
 var socprocs = [];
